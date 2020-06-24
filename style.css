@@ -1,0 +1,60 @@
+body { 
+    font-family: sans-serif;
+    color: #777777;
+    line-height: 26px;
+}
+.purple-color {
+    color: #8845f4;
+}
+.half-widht {
+    width: 50%;
+    float: left;
+    
+}
+.side-img {
+    width: 20%;
+    padding-left: 25%;
+    
+}
+.primary-btn {
+    color: white;
+    background-color: #8845f4;
+    padding: 13px 42px 13px ;
+    border-radius:20px;
+    text-decoration: none;
+}
+h1 {
+font-size: 2.3em;
+}
+.container {
+    display: inline-block;
+    padding-left: 5%;
+}
+.side-img2 {
+    width: 40%;
+    padding-left: 25%;
+}
+.experiences {
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238,251,255);
+    border-radius: 20px;
+}
+.experience-item {
+    padding: 10px;
+    border-left: 1px solid rgba(137,130,247,.2);
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
